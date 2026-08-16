@@ -1,0 +1,22 @@
+{
+  "name": "bitsnip-ui-library",
+  "version": "1.0.22",
+  "description": "Virtual UI React component Library",
+  "license": "ISC",
+  "author": "Charul jain",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "peerdependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^7.0.2"
+  }
+}
