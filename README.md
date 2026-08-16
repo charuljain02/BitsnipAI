@@ -16,6 +16,10 @@
 
 ---
 
+##Live Demo
+
+🔗 **Live Website:** [https://bitsnipai-4.onrender.com](https://bitsnipai-4.onrender.com)
+
 ## 🧠 Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Framer Motion, Redux Toolkit, React Router, Lucide / React Icons
