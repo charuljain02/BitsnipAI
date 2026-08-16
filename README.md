@@ -100,6 +100,7 @@ BitsnipAI/
 ├── virtualui-client/    # React + Vite Frontend App
 ├── virtualui-server/    # Node.js + Express Backend API
 └── virtualui-lib/       # Published React UI Library Source
+
 ---
 ### Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a5fedf8-26b8-4601-9823-e76b7075a907" />
@@ -113,14 +114,14 @@ BitsnipAI/
 
 
 
-
-
-
+---
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
+---
+
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
-```
+
