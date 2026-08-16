@@ -22,7 +22,7 @@ import { auth, provider } from "../utils/firebase.js";
 import { setUserData } from "../redux/userSlice.js";
 
 // Backend URL
-const ServerUrl = "http://localhost:8000";
+const ServerUrl = "https://bitsnipai-4.onrender.com/";
 
 // Steps configuration
 const steps = [
