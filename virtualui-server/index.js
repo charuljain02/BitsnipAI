@@ -4,7 +4,7 @@ import dns from "dns";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 
-import { connectDb } from "./configs/connectDb.js";
+import { connectDb } from "./configs/connectDB.js";
 
 import authRouter from "./routes/auth.routes.js";
 import userRouter from "./routes/user.routes.js";
