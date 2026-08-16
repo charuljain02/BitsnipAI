@@ -12,7 +12,7 @@ import AllComponents from "./pages/AllComponents";
 import MyComponents from "./pages/MyComponents";
 import Pricing from "./pages/Pricing";
 
-export const ServerUrl = "http://localhost:8000";
+export const ServerUrl = "https://bitsnipai-1.onrender.com";
 
 function App() {
   const dispatch = useDispatch();
