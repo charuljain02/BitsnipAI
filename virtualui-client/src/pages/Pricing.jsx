@@ -6,7 +6,7 @@ import { ArrowLeft, Sparkles, Check, Loader2 } from 'lucide-react';
 import { setUserData } from '../redux/userSlice';
 
 // Adjust this to wherever your backend base URL lives (env var / config file)
-const serverUrl = import.meta.env.VITE_SERVER_URL || 'http://localhost:8000';
+const serverUrl = import.meta.env.VITE_SERVER_URL || 'https://bitsnipai-4.onrender.com/';
 
 const plans = [
   {
