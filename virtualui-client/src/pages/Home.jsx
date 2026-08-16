@@ -347,7 +347,7 @@ function Home() {
                     <div className='flex items-center gap-2 sm:gap-3 bg-white/[0.04] border border-white/10 rounded-xl px-4 sm:px-5 py-3 text-xs sm:text-sm font-mono w-full max-w-xs sm:max-w-fit'>
                         <span className='text-[#3be8ff]/60'>$</span>
                         <span className='text-white/80 truncate'>
-                            npm install virtual-ui-library
+                            npm install bitsnip-ui-library
                         </span>
                         <button 
                             onClick={handleCopy}
