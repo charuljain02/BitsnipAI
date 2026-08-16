@@ -102,7 +102,17 @@ BitsnipAI/
 └── virtualui-lib/       # Published React UI Library Source
 ---
 ### Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe88c1b5-c112-4406-a720-7576d81d00d5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a5fedf8-26b8-4601-9823-e76b7075a907" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/202a3b3d-522c-40ff-8a9a-da2651345a85" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29850c48-e497-4083-86e5-b2ca4b6f4404" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c88b2d4f-5100-45ce-bd3b-acf78a2544b6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/543e09a0-366e-4687-b923-6f4d8e2f1b2f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/248ff485-9bbb-46c1-8158-ca395eb88c3b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbda739d-f0d8-4b9c-a881-1a8db48bf76c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d3edb30-027e-49fd-9281-6c9afe69929b" />
+
+
+
 
 
 
