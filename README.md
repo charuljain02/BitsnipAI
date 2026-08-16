@@ -16,9 +16,11 @@
 
 ---
 
-##Live Demo
+## Live Demo
 
 🔗 **Live Website:** [https://bitsnipai-4.onrender.com](https://bitsnipai-4.onrender.com)
+
+---
 
 ## 🧠 Tech Stack
 
