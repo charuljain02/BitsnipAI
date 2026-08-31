@@ -101,7 +101,7 @@ npm run dev
 ```
 ---
 ### 📂 Project Architecture
-<img width="500" height="642" alt="_- visual selection (6)" src="https://github.com/user-attachments/assets/6d953221-7782-40ac-b526-cc4e20246225" />
+<img width="600" height="498" alt="_- visual selection (7)" src="https://github.com/user-attachments/assets/4d4b1ff8-964c-477c-92d8-682fd3038582" />
 
 
 ---
