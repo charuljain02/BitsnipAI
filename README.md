@@ -101,11 +101,8 @@ npm run dev
 ```
 ---
 ### 📂 Project Architecture
+<img width="500" height="642" alt="_- visual selection (6)" src="https://github.com/user-attachments/assets/6d953221-7782-40ac-b526-cc4e20246225" />
 
-BitsnipAI/
-├── virtualui-client/    # React + Vite Frontend App
-├── virtualui-server/    # Node.js + Express Backend API
-└── virtualui-lib/       # Published React UI Library Source
 
 ---
 ### Screenshots
